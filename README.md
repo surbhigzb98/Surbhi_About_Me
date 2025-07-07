@@ -14,7 +14,7 @@ You bring the curiosity, I’ll bring the queries 🍪🧑‍💻
 
 ---
 
-🌐 **Socials:**
+
 
 🌐 **Socials:**
 
@@ -33,6 +33,8 @@ You bring the curiosity, I’ll bring the queries 🍪🧑‍💻
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)  
 ![DOMO](https://img.shields.io/badge/DOMO-1E88E5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjMwIiB2aWV3Qm94PSIwIDAgMTIwIDMwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9IiNmZmYiIGZvbnQtc2l6ZT0iMjBweCIgdGV4dC1hbmNob3I)
+![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=flat&logo=googlesheets&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-795548?style=flat&logo=selenium&logoColor=white)
 
 
 ---
